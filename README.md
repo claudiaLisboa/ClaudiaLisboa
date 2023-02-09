@@ -5,6 +5,7 @@
 
 #### Side Projects:
 
+- 📨 https://github.com/claudiaLisboa/messenger-clone
 - 🛒 https://github.com/claudiaLisboa/shopping_cart
 - 📑 https://github.com/claudiaLisboa/pagination
 - 🛋️ https://github.com/claudiaLisboa/General-store
