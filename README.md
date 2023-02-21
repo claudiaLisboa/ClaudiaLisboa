@@ -1,4 +1,4 @@
-# Hello, my name is Claudia. I am a Front-end Web Developer, living in Laval, Qc 🇨🇦
+# Hello, my name is Claudia. I am a Front-End Web Developer, living in Laval, Qc 🇨🇦
 
 ### Ability to develop and optimize Web Site using JavaScript, TypeScript, ReactJS, HTML, CSS and Bootstrap
 
